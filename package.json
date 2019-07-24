@@ -1,0 +1,25 @@
+{
+  "name": "file-system-module",
+  "version": "1.0.0",
+  "description": "environment management project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgkstack/file-system-module.git"
+  },
+  "author": "Gaurav Kumar <gauravkumar5295@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamgkstack/file-system-module/issues"
+  },
+  "homepage": "https://github.com/iamgkstack/file-system-module#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "envfile": "^3.0.0",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2"
+  }
+}
