@@ -4,6 +4,8 @@
 ```bash
 git clone https://github.com/iamgkstack/file-system-module.git
 
+cd file-system-module
+
 npm install
 
 node server
