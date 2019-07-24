@@ -1,2 +1,10 @@
 # file-system-module
-Environment Management
+
+## Setup
+```bash
+git clone https://github.com/iamgkstack/file-system-module.git
+
+npm install
+
+node server
+```
